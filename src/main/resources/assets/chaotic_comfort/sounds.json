@@ -22,5 +22,19 @@
         "stream": true
       }
     ]
+  },
+  "nomnomnom": {
+    "sounds": [
+      {
+        "name": "chaotic_comfort:nomnomnom"
+      }
+    ]
+  },
+  "yummy": {
+    "sounds": [
+      {
+        "name": "chaotic_comfort:yummy"
+      }
+    ]
   }
 }

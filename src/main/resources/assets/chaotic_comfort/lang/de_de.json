@@ -1,0 +1,36 @@
+{
+  "creativetab.chaotic_comfort": "Chaotischer Komfort",
+
+  "block.chaotic_comfort.calcite_stairs": "Kalzit Treppen",
+  "block.chaotic_comfort.calcite_slab": "Kalzit Stufe",
+  "block.chaotic_comfort.calcite_wall": "Kalzit Mauer",
+
+  "block.chaotic_comfort.dripstone_stairs": "Dripstone Treppen",
+  "block.chaotic_comfort.dripstone_slab": "Dripstone Stufe",
+  "block.chaotic_comfort.dripstone_wall": "Dripstone Mauer",
+
+  "block.chaotic_comfort.smooth_basalt_stairs": "Glatte Basalt Treppen",
+  "block.chaotic_comfort.smooth_basalt_slab": "Glatte Basalt Stufe",
+  "block.chaotic_comfort.smooth_basalt_wall": "Glatte Basalt Mauer",
+
+  "item.chaotic_comfort.golden_nether_star": "Goldener Nether Stern",
+
+  "item.chaotic_comfort.pommes_rot_weiss_music_disc": "Nicht ernstnehmbare Schallplatte",
+  "item.chaotic_comfort.pommes_rot_weiss_music_disc.desc": "Pommes Rot Weiss - @tacokaiser",
+
+  "item.chaotic_comfort.eleventh_hour_music_disc": "Schallplatte",
+  "item.chaotic_comfort.eleventh_hour_music_disc.desc": "Eleventh Hour - Nightmargin",
+  "item.chaotic_comfort.solstice_music_disc": "Schallplatte",
+  "item.chaotic_comfort.solstice_music_disc.desc": "Solstice - Nightmargin",
+
+  "painting.chaotic_comfort.victory.title": "Sieg",
+  "painting.chaotic_comfort.victory.author": "duhrstloescher",
+
+  "item.chaotic_comfort.puffer_armor_trim_smithing_template": "Kugelfisch-Rüstungsbesatz",
+  "trim_pattern.chaotic_comfort.puffer": "Schmiedevorlage(nur Harnisch))",
+
+  "entity.minecraft.villager.chaotic_comfort.guy": "Typ",
+
+  "item.chaotic_comfort.electric_guitar": "Elektrische Gitarre",
+  "item.chaotic_comfort.baguette": "Baguette"
+}

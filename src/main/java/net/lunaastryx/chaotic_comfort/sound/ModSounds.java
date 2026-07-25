@@ -17,6 +17,9 @@ public class ModSounds {
     public static final DeferredRegister<SoundEvent> SOUND_EVENTS =
             DeferredRegister.create(BuiltInRegistries.SOUND_EVENT, ChaoticComfort.MOD_ID);
 
+    public static final Supplier<SoundEvent> YUMMY = registerSoundEvent("yummy");
+    public static final Supplier<SoundEvent> NOMNOMNOM = registerSoundEvent("nomnomnom");
+
     public static final Supplier<SoundEvent> POMMES_ROT_WEISS = registerSoundEvent("pommes_rot_weiss");
     public static final ResourceKey<JukeboxSong> POMMES_ROT_WEISS_KEY = createSong("pommes_rot_weiss");
 
